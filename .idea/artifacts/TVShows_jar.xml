@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TVShows:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TVShows_jar</output-path>
+    <root id="archive" name="TVShows.jar">
+      <element id="module-output" name="TVShows" />
+      <element id="library" level="project" name="src" />
+    </root>
+  </artifact>
+</component>
